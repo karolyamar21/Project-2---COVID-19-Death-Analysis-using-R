@@ -1,5 +1,7 @@
 # Project-2-COVID-19-Death-Analysis-using-R
 
+![patient-getting-covid-test](https://github.com/karolyamar21/Project-2-COVID-19-Death-Analysis-using-R/assets/137465006/684483fd-bf64-434b-a435-c0719ab68b6b)
+
 
 ## Scenario:
 
